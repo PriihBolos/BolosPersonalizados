@@ -50,7 +50,7 @@ button,input,select,textarea{font:inherit}
 .hero{min-height:calc(100vh - 82px);display:grid;grid-template-columns:1fr;align-items:center;padding:80px 7%;overflow:hidden;background:#d94f82;background-image:linear-gradient(108deg,#ed78a0 0%,#d94f82 58%,#8c594c 58%,#8c594c 100%)}
 .eyebrow{font-size:11px;letter-spacing:2.4px;font-weight:800;color:var(--ink)}
 .hero h1{font-family:"Baloo 2",sans-serif;font-size:clamp(46px,6vw,82px);font-weight:700;line-height:.98;letter-spacing:0;max-width:760px;margin:18px 0 24px}
-.hero p{font-size:18px;color:var(--muted);max-width:650px}
+.hero p{font-size:18px;color:#4a2928;max-width:650px}
 .hero-actions{display:flex;gap:12px;margin:32px 0}
 .trust{display:flex;flex-wrap:wrap;gap:18px;color:var(--ink);font-size:13px;font-weight:600}
 .section{padding:105px 7%}
